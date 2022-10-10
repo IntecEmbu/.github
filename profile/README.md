@@ -10,7 +10,6 @@
 <br>
 
 > ## Sistemas em desenvolvimento 👩‍💻👨‍💻
-> #### Clique para conhecer o projeto mais de perto 🔥
 
   - ### Biblioteca 📚
   - ### Laboratório 💻
